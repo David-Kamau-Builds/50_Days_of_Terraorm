@@ -8,3 +8,9 @@ variable "sg_name" {
   type        = string
   default     = "devops-sg"
 }
+
+variable "ingress_ports" {
+  description = "List of ingress ports to allow"
+  type        = list(number)
+  default     = [22, 80]
+}

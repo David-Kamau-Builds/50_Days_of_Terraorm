@@ -12,5 +12,5 @@ variable "key_name" {
 variable "private_key_path" {
   description = "The local path where the private key pem file will be saved"
   type        = string
-  default     = "/home/bob/xfusion-kp.pem"
+  default     = "./xfusion-kp.pem"
 }
