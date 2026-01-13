@@ -10,6 +10,7 @@ This repository documents my journey learning and mastering Terraform over 50 da
 | **Day 2** | Create Security Group | Creating an AWS Security Group with Ingress rules for SSH and HTTP. |
 | **Day 3** | Create a VPC | Setting up a custom Virtual Private Cloud (VPC) with a public subnet, internet gateway, and route table. |
 | **Day 4** | Create VPC with specific CIDR | Provisioning a VPC with a custom IPv4 CIDR block and specific tagging. |
+| **Day 5** | Create VPC with IPv6 | Creating a VPC with an Amazon-provided IPv6 CIDR block. |
 
 ## How to Use
 
