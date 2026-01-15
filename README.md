@@ -11,6 +11,7 @@ This repository documents my journey learning and mastering Terraform over 50 da
 | **Day 3** | Create a VPC | Setting up a custom Virtual Private Cloud (VPC) with a public subnet, internet gateway, and route table. |
 | **Day 4** | Create VPC with specific CIDR | Provisioning a VPC with a custom IPv4 CIDR block and specific tagging. |
 | **Day 5** | Create VPC with IPv6 | Creating a VPC with an Amazon-provided IPv6 CIDR block. |
+| **Day 6** | Create an Elastic IP | Creating an AWS Elastic IP to provide a static IPv4 address. |
 
 ## How to Use
 
